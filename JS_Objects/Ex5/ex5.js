@@ -8,6 +8,6 @@ let object = {
     },
     address: "Moldova"
 }
-object.contacts.phone = "+37312345678";
+object.contacts.phone = "+37378797334";
 delete object.address;
 console.log(object);
