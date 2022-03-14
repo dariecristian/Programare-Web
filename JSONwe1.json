@@ -1,0 +1,21 @@
+{
+  "HumanData": {
+      "FIO": "Darie Cristian Mihail",
+      "BirthData": "28.12.2001",
+      "Gender": "Male",
+      "IDNP": 2016004002892,
+      "BirthPlace": "Moldova"
+    },
+    "WorkerData": {
+      "Mob": 078787223,
+      "Mob_home": 023149864,
+      "Addres": "Alexandr Parhomenko 8",
+      "@mail": "cristian.darie13@gmail.com",
+      "Post": "Project Manager",
+      "StartWorkTime": "01.05.2022",
+      "Salary": 100,
+      "WorkerRating": 9,
+      "WorkPlace": "NipponSoftware",
+      "WorkGraph": "8:00 - 17:00/dinner 12:00-13:00"
+    }
+}
