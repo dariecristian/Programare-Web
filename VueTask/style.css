@@ -1,0 +1,20 @@
+h3 {
+text-align: center;
+}
+
+.major{
+    text-align: center;
+}
+
+ table{
+    justify-content: center;
+    display: flex;    
+}
+
+input{
+    width: 130px;
+}
+
+select{
+    width: 138px;
+}
